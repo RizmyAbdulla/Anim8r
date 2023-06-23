@@ -8,3 +8,4 @@ Coming Soon at : 2023.6.25
 | CDN Link   | &#10003; |
 | docs       | &#10003; |
 | Availability|  &#10005; |
+| Bootstrap Element animations|   &#10003; |

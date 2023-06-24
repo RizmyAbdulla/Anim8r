@@ -1,6 +1,6 @@
 # Still Under Development -_-
 
-Coming Soon at : 2023.6.25
+Date extended : 2023.7.1
 
 | Feature    | Progress |
 |------------|----------|

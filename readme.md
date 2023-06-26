@@ -1,11 +1,13 @@
-# Still Under Development -_-
+# Still Under Development ^_^
 
-Date extended : 2023.7.1
+Date extended : 2023.7.22
 
-| Feature    | Progress |
+| Feature    |           |
 |------------|----------|
-| Responsive | &#10005; |
+| Responsive | &#10003; |
 | CDN Link   | &#10003; |
 | docs       | &#10003; |
-| Availability|  &#10005; |
 | Bootstrap Element animations|   &#10003; |
+| Animation Themes |&#10003;|
+| Free Template Store |&#10003;|
+
